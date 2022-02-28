@@ -212,8 +212,9 @@ Tdef(\filterSweep).stop;
   </details>
 
 
-### Βιβλιογραφία
+### Βιβλιογραφία (Έντυπη και Ηλεκτρονική)
   * Matthew R.Ebben. Peter Yan, Ana C.Krieger. "The effects of white noise on sleep and duration in individuals living in a high noise environment in New York City" (6 April 2021) https://doi.org/10.1016/j.sleep.2021.03.031 *
   * Sandee LaMotte. "White noise (and pink and brown): The science behind the sounds. Cable News Network. Inc. a Time Warner Company. May 3, 2021." https://edition.cnn.com/2021/03/18/health/white-pink-brown-noise-sleep-wellness/index.html*
   * Michael Grandner. "Sleep and Health".1st Edition - April 16, 2019.*
+  * Kelsey McKinney. "THE ART AND SCIENCE OF WHITE NOISE". PACIFIC STANDARD STAFF. https://psmag.com/news/the-art-and-science-of-white-noise*
   
